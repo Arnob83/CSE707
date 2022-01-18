@@ -20,10 +20,10 @@ https://drive.google.com/file/d/1F6J4EzIkCNbNB3lyKAIqaUfjHlPtw32M/view
 https://drive.google.com/file/d/1MZpR_uB67ax0VSSzds57HAB2wBzPyXBK/view
 
 did project:
-Title: An Architectural Approach to Creating a Cloud Application for Developing Microservices
+An Architectural Approach to Creating a Cloud Application for Developing Microservices
 
 did something else
-...
+Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
 
 was active in slack:
 https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642446745001800
