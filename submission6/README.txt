@@ -1,3 +1,11 @@
+Completed coursera course using email
+arnob.kumar.dey@g.bracu.ac.bd
+https://www.coursera.org/learn/blockchain-scalability
+
+Completed edx course using email
+arnob.kumar.dey@g.bracu.ac.bd
+https://learning.edx.org/course/course-v1:BerkeleyX+CS198.2x+3T2019/home
+
 completed youtube video:
 https://youtu.be/7VbL89mKK3M
 https://youtu.be/Y6Ev8GIlbxc
