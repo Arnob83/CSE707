@@ -25,6 +25,7 @@ did something else
 
 was active in slack:
 https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642446745001800
+https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642484392002800
 
 Submitter:
 21166011 Arnob Kumar Dey
